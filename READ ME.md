@@ -37,11 +37,12 @@ Statiscal analysis suited more in this data this made it easilier to come up tan
 
 ## Results
 
-The target variable (price) has strong relationship with the independent variables which help the model to be able to predict future prices.The model can moderately predict the prices as noted by the adjusted R^2 ,VIF and toleance.
+The target variable (price) has strong relationship with the independent variables which help the model to be able to predict future prices.The model can moderately predict the prices as noted by the adjusted R^2 ,VIF and tolerance.
 
 
 ## Contributing
 
 The project can be found in the github repository where you can easily fork to test your own ideas (https://github.com/janju796/King-County-House-Sales).if you notice errors made in the project please notify me at njugunajames796@gmail.c0m
+
 
 
